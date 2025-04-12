@@ -27,3 +27,7 @@
 </div>
 
 ###
+
+<p align="left">Sou estudante esse perfil e dedicado aos meus projetos tanto relacionado a trabalho e para faculdade.</p>
+
+###
