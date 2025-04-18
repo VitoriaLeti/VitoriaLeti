@@ -41,5 +41,8 @@
 <img src="https://raw.githubusercontent.com/VitoriaLeti/VitoriaLeti/output/snake.svg" alt="Snake animation" />
 
 ###  
+
+![snake gif](https://github.com/vitoriaLeti/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg))
+
      
 
