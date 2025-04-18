@@ -42,7 +42,7 @@
 
 ###  
 
-![snake gif](https://github.com/vitoriaLeti/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg))
+![snake gif](https://github.com/VitoriaLeti/VitoriaLeti/blob/output/github-contribution-grid-snake.svg))
 
      
 
