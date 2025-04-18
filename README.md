@@ -41,6 +41,5 @@
 <img src="https://raw.githubusercontent.com/VitoriaLeti/VitoriaLeti/output/snake.svg" alt="Snake animation" />
 
 ###  
-        
-!Snake animation
+     
 
