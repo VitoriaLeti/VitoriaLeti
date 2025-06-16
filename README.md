@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">Sou estudante esse perfil e dedicado aos meus projetos tanto relacionado a trabalho e para faculdade.</p>
+<p align="left">Eu sou Vitoria Leticia da Silva Medeiros, Desenvolvedora de Software e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco em Python, APIs REST e FastAPI. Atualmente, atuo como Jovem Aprendiz na Compass UOL.
+
+.</p>
 
 ###
 
