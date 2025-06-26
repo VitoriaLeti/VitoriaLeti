@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Eu sou Vitoria Leticia da Silva Medeiros, Desenvolvedora de Software e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco em Python, APIs REST e FastAPI. Atualmente, atuo como Jovem Aprendiz na Compass UOL.
+<p align="left">Sou Vitória Leticia da Silva Medeiros e tenho paixão por tecnologia, com experiência em C++ e Python. Tenho estudado e desenvolvido projetos em Python, explorando APIs e bancos de dados SQL. Estou sempre buscando aprender mais e aprimorar minhas habilidades para contribuir de maneira significativa em novas oportunidades. Recentemente, comecei a atuar no Studio de QA (Quality Assurance) como Jovem Aprendiz na Compass UOL. Além disso, sou estudante de Análise e Desenvolvimento de Sistemas.
 
 .</p>
 
