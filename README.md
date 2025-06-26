@@ -1,22 +1,18 @@
-<h2 align="left">Seja bem vindo ao meu perfil</h2>
+# Vitoria Leticia
 
-<div align="center">
-  https://github-readme-stats.vercel.app/api?username=VitoriaLeti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
-  https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaLeti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
-</div>
+## conecte -se comigo
 
-<div align="center">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  <img width="12" />
-  <img src="https://vr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  <img width="12" />
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
-  <img width="12" />
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-leticia-da-silva-medeiros-174a972b1/)
 
-<p align="left">
-  Sou Vitória Leticia da Silva Medeiros e tenho paixão por tecnologia, com experiência em C++ e Python. Tenho estudado e desenvolvido projetos em Python, explorando APIs e bancos de dados SQL. Estou sempre buscando aprender mais e aprimorar minhas habilidades para contribuir de maneira significativa em novas oportunidades. Recentemente, comecei a atuar no Studio de QA (Quality Assurance) como Jovem Aprendiz na Compass UOL. Além disso, sou estudante de Análise e Desenvolvimento de Sistemas.
-</p>
 
-<br clear="both">
+
+# habilidades 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoriaLeti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
