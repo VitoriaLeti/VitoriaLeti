@@ -2,12 +2,15 @@
 
 <div align="center">
   https://github-readme-stats.vercel.app/api?username=VitoriaLeti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaLeti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150nter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconsthon-original.svg
+  https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaLeti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
+</div>
+
+<div align="center">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
   <img width="12" />
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+  <img src="https://vr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/s/devicon/icons/csharp/csharp-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
   <img width="12" />
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 </div>
