@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil
+# Seja bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />
 
 ## GitHub Stats
 
