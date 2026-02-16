@@ -6,7 +6,10 @@ Comecei minha jornada com Python e SQL, desenvolvendo projetos, explorando APIs 
 
 
 ## Vamos nos conectar 💻
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-leticia-da-silva-medeiros-174a972b1/)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vileticia1301@gmail.com)
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-leticia-da-silva-medeiros-174a972b1/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vileticia1301@gmail.com)
+</p>
 
 
 
