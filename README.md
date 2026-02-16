@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />Seja bem vindo ao meu perfil 
 
 ## Sobre mim
 Sou Vitória Leticia da Silva Medeiros e tenho paixão por tecnologia. Atualmente, estou em transição para Java como parte de um novo desafio na minha carreira, focado em desenvolvimento backend. Estou expandindo meu repertório técnico e abraçando novas oportunidades de crescimento.
@@ -8,8 +8,8 @@ Comecei minha jornada com Python e SQL, desenvolvendo projetos, explorando APIs 
 ## Vamos nos conectar 💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-leticia-da-silva-medeiros-174a972b1/)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vileticia1301@gmail.com)
 
-## Habilidades
-## Habilidades
+
+## 🚀 Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
