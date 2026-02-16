@@ -1,4 +1,4 @@
-#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />Seja bem vindo ao meu perfil 
+#   💜 Seja bem vindo ao meu perfil 
 
 ## Sobre mim
 Sou Vitória Leticia da Silva Medeiros e tenho paixão por tecnologia. Atualmente, estou em transição para Java como parte de um novo desafio na minha carreira, focado em desenvolvimento backend. Estou expandindo meu repertório técnico e abraçando novas oportunidades de crescimento.
