@@ -1,4 +1,4 @@
-#   💜 Seja bem vindo ao meu perfil 
+#   💜 Seja bem vindo ao meu perfil pessoal 
 
 ## Sobre mim
 Sou Vitória Leticia da Silva Medeiros e tenho paixão por tecnologia. Atualmente, estou em transição para Java como parte de um novo desafio na minha carreira, focado em desenvolvimento backend. Estou expandindo meu repertório técnico e abraçando novas oportunidades de crescimento.
