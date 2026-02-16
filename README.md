@@ -23,3 +23,4 @@ Comecei minha jornada com Python e SQL, desenvolvendo projetos, explorando APIs 
 
 
 
+
